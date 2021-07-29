@@ -1,0 +1,9 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "baseUrl": "https://www.saucedemo.com/",
+    "baseUrl2": "https://www.google.com/",
+    "env": {
+        "global_timeout": 30000,
+        "environment": "PROD"   
+    }
+}
